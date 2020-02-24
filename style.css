@@ -1,0 +1,63 @@
+.management{
+    background-color: #fceae8;
+}
+.management-price{
+    color:#FF136F;
+}
+.management-button{
+    padding: 9px 25px;
+    background-image: linear-gradient(to Bottom, #FF589F 0%, #FF136F 100%);
+    color: white;
+    border: 0px;
+    border-radius: 8px;
+    text-transform: uppercase;
+}
+.management-items{
+    padding:20px 40px;
+}
+.management-cat1{
+    background-image: linear-gradient(to left, #EDCA2E, #EA942F);
+    color:white;
+    padding: 10px 30px;
+    border-radius: 10px;
+
+}
+.management-cat2{
+    background-image: linear-gradient(to left, #3813F6, #4077FE);
+    color:white;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.management-cat3{
+    background-image: linear-gradient(to left, #ED3882, #F03079);
+    color:white;
+    padding: 10px 30px;  
+    border-radius: 10px; 
+}
+.categories img{
+    width: 100px;
+}
+.container{
+    margin-bottom:100px
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+#subscribe{
+    height: 300px;
+
+}
+#subscribe h6{
+    color: gray;
+}
+.maf-kor{
+    margin-top: 100px;
+    
+}
